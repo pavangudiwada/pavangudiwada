@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pavan Gudiwada 
 
-I am an 🔭 aspiring *DevOps engineer* and *FOSS lover* :hearts:
+I am an 🔭 *DevOps engineer*(Azure DevOps. Exp: 1year) and *FOSS lover* :hearts:
 
 ### Ahm...okay what is that you do? :thinking: 
 - I break down DevOps topics into beautiful visual guides :crystal_ball:
