@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pavan Gudiwada 
 
-I am a 🔭 DevOps engineer(lots yet to learn) and *FOSS lover* :hearts:
+I am a 🔭 Developer Advocate(lots yet to learn) and *FOSS lover* :hearts:
 
 ### Ahm...okay what is that you do? :thinking: 
 - I break down DevOps topics into beautiful visual guides :crystal_ball:
@@ -13,7 +13,6 @@ I am a 🔭 DevOps engineer(lots yet to learn) and *FOSS lover* :hearts:
 - Docker
 - Linux
 - Kubernetes
-- Azure DevOps
 - Technical Writing
 
 
