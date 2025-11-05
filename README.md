@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pavan Gudiwada 
 
-- Developer Advocate at Robusta.dev by profession
+- Senior Software Engineer (Developer Relations) at Freshworks
 - Certified Kubernetes Application Developer (CKAD)
 - FOSS Lover
 
