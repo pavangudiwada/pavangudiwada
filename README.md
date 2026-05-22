@@ -1,57 +1,83 @@
-# Hi 👋 I'm Pavan Gudiwada 
+# Hi, I'm Pavan Gudiwada 👋
 
-- Senior Software Engineer (Developer Relations) at Freshworks
-- Certified Kubernetes Application Developer (CKAD)
-- FOSS Lover
+I'm a software engineer and DevRel practitioner working at the intersection of
+AI SRE, Kubernetes, DevOps, and technical product marketing.
 
-### Skills
-<a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height="42px"/> </a> 
-<a href="https://golang.org" target="_blank"> <img align="left" src="assets/go.svg" alt="Go" height="25px"/> </a> 
-<a href="https://www.docker.com" target="_blank"><img align="left" src="assets/docker.svg" alt="Docker" height="49px"/></a>
-<a href="https://kubernetes.io" target="_blank"> <img align="left" src="assets/kubernetes.svg" alt="Kubernetes" height="42px"/> </a>
-<a href="https://git-scm.com" target="_blank"><img align="left" src="assets/git.svg" alt="Git" height="42px"/></a>
-<br clear="left"/>
+Most of my recent work is about making reliability engineering more practical
+with AI agents, better developer workflows, and clear technical storytelling.
 
+- The AI SRE Guy
+- Senior Software Engineer, Developer Relations at Freshworks
+- CKAD certified Kubernetes practitioner
+- Builder, writer, and OSS contributor across AI SRE, cloud-native, and DevOps
+  tooling
 
-### Blogs
-- [Four ways pods suddenly stop running on Kubernetes](https://home.robusta.dev/blog/oomkill-crashloops-evictions) - Robusta.dev
-- [Best three tools for working with many Kubernetes contexts](https://home.robusta.dev/blog/switching-kubernets-context) - Robusta.dev
-- [ Practical Kubernetes monitoring with Prometheus and Grafana](https://kubecampus.io/kubernetes/blog/practical-kubernetes-monitoring-with-prometheus-and-grafana/) - Kubecampus.io
-- More blogs on [Hashnode](https://pavangudiwada.hashnode.dev/) & [Medium](https://pavangudiwada.medium.com/)
+## Current focus
 
-### Talks
-- [Prometheus in 5 minutes - Pavan Gudiwada - Robusta.dev](https://www.youtube.com/watch?v=I6C09vPBpiA&list=PLfbj6mkGIOYtD_vaMI65tqzvHPRTcpBD_) - Kubernetes Community Days Pakistan
-- [ Kubernetes-as-a-Service is better for you? ](https://www.youtube.com/watch?v=5i1TQEb7c90) - Ortelius Visionaries Summit 2022
-<!-- - [Kubernetes monitoring done right with Robusta](https://www.youtube.com/watch?v=RP6bW-EevX0) - Kubesimplify CloudNative stories
-- [Understand Terraform Cloud and Enterprise capabilities](https://www.youtube.com/watch?v=8JSTKHxkLTM) - Terraform HUG Sydney with Brad McCoy -->
+- Tracking what's shipping in AI SRE through [The AI SRE Watchlist]
+- Exploring how AI agents can help with RCA, incident response, Kubernetes
+  alerts, and on-call workflows
+- Building and explaining DevOps/Kubernetes tools for practitioners
+- Turning technical products into useful demos, docs, content, and developer
+  education
+- Sharing practical lessons from OSS, DevRel, and software engineering
 
+## Projects and repos
 
+- [awesome-ai-sre] is a curated watchlist of AI SRE tools across RCA, incident
+  response, observability, infrastructure, cost, and DevOps workflows.
+- [personal-website] is my personal site and home for longer-form positioning,
+  writing, and projects.
+- [job-resources] is a categorized collection of job boards and career
+  resources.
 
-### Wow!! can we talk? :exploding_head:
-You + Me = Buddies :handshake:
+## I like working on
 
- <a href="https://twitter.com/pavangudiwada_"><img src="https://img.shields.io/twitter/follow/pavangudiwada_?color=blue&label=%40pavangudiwada_&logo=twitter&style=for-the-badge" height="30"> </a>
-   <a href="https://www.linkedin.com/in/pavangudiwada"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"/></a>
+- AI SRE and agentic reliability workflows
+- Kubernetes, Prometheus, observability, and incident response
+- Developer tools and DevEx
+- DevRel, technical content, demos, launch narratives, and product education
+- Open source communities and practical engineering education
 
+## Tech I use often
 
-  
-<!--
-**pavangudiwada/pavangudiwada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python
+- Go
+- Docker
+- Kubernetes
+- Git
 
-Here are some ideas to get you started:
+## Writing and talks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Four ways pods suddenly stop running on Kubernetes] on Robusta.dev
+- [Best three tools for working with many Kubernetes contexts] on Robusta.dev
+- [Practical Kubernetes monitoring with Prometheus and Grafana] on
+  Kubecampus.io
+- [Prometheus in 5 minutes] at Kubernetes Community Days Pakistan
+- [Kubernetes-as-a-Service is better for you?] at Ortelius Visionaries Summit
+  2022
+- More writing on [Hashnode] and [Medium]
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+## Let's connect
 
+- Website: [pavangudiwada.dev]
+- LinkedIn: [linkedin.com/in/pavangudiwada]
+- X/Twitter: [@pavangudiwada_]
 
-  <a href="https://www.linkedin.com/in/pavangudiwada"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/pavangudiwada_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
--->
+If you're building in AI SRE, DevOps, Kubernetes, developer tooling, or
+technical product marketing, I'd love to connect.
+
+[The AI SRE Watchlist]: https://github.com/pavangudiwada/awesome-ai-sre
+[awesome-ai-sre]: https://github.com/pavangudiwada/awesome-ai-sre
+[personal-website]: https://github.com/pavangudiwada/personal-website
+[job-resources]: https://github.com/pavangudiwada/job-resources
+[Four ways pods suddenly stop running on Kubernetes]: https://home.robusta.dev/blog/oomkill-crashloops-evictions
+[Best three tools for working with many Kubernetes contexts]: https://home.robusta.dev/blog/switching-kubernets-context
+[Practical Kubernetes monitoring with Prometheus and Grafana]: https://kubecampus.io/kubernetes/blog/practical-kubernetes-monitoring-with-prometheus-and-grafana/
+[Prometheus in 5 minutes]: https://www.youtube.com/watch?v=I6C09vPBpiA&list=PLfbj6mkGIOYtD_vaMI65tqzvHPRTcpBD_
+[Kubernetes-as-a-Service is better for you?]: https://www.youtube.com/watch?v=5i1TQEb7c90
+[Hashnode]: https://pavangudiwada.hashnode.dev/
+[Medium]: https://pavangudiwada.medium.com/
+[pavangudiwada.dev]: https://pavangudiwada.dev
+[linkedin.com/in/pavangudiwada]: https://www.linkedin.com/in/pavangudiwada
+[@pavangudiwada_]: https://twitter.com/pavangudiwada_
